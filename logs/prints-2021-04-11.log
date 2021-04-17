@@ -1,0 +1,12 @@
+04:50:18.212 [main] INFO  resources.Base - Closing Driver Instance, its for ValidateTitle
+04:50:38.862 [main] INFO  resources.Base - Driver Initilized and URL is loaded
+04:50:41.682 [main] INFO  resources.Base - Driver Initilized and URL is loaded
+04:50:44.387 [main] INFO  resources.Base - Closing Driver instane, its for homePage
+04:51:26.318 [main] INFO  resources.Base - Closing Driver Instance, its for NavBar
+07:11:42.720 [main] INFO  resources.Base - Closing Driver Instance, its for ValidateTitle
+07:11:54.057 [main] INFO  resources.Base - Driver Initilized and URL is loaded
+07:11:54.492 [main] INFO  resources.Base - I am landing Page and login button clicked
+07:11:54.494 [main] INFO  resources.Base - I am at Login page and Providing Details
+07:11:54.886 [main] INFO  resources.Base - Provided Details forpavan@gmail.comClicked on Submit
+07:11:54.890 [main] INFO  resources.Base - Driver Initilized and URL is loaded
+07:12:05.304 [main] INFO  resources.Base - Closing Driver instane, its for homePage

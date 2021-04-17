@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <listeners>
+    <listener class-name="Work_folder.Listerners"/>
+  </listeners>
+  <test name="Validating Title(failed)" parallel="tests">
+    <classes>
+      <class name="Work_folder.HomePage">
+        <methods>
+          <include name="close"/>
+          <include name="Initilize"/>
+        </methods>
+      </class> <!-- Work_folder.HomePage -->
+      <class name="Work_folder.validateNavBar">
+        <methods>
+          <include name="close"/>
+          <include name="initilizeDriverInValidateNavBar"/>
+        </methods>
+      </class> <!-- Work_folder.validateNavBar -->
+      <class name="Work_folder.ValidateTitle">
+        <methods>
+          <include name="close"/>
+          <include name="validatetitle"/>
+        </methods>
+      </class> <!-- Work_folder.ValidateTitle -->
+    </classes>
+  </test> <!-- Validating Title(failed) -->
+</suite> <!-- Failed suite [Suite] -->

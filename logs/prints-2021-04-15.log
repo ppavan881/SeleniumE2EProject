@@ -1,0 +1,11 @@
+14:04:56.066 [TestNG] INFO  resources.Base - Provided Details forpawar@gmail.comClicked on Submit
+14:04:56.630 [TestNG] INFO  resources.Base - i am on Forgot password Page
+14:04:56.631 [TestNG] INFO  resources.Base - Closing Driver instane, its for homePage
+14:23:08.924 [TestNG-tests-2] INFO  resources.Base - Driver Initilized for HomePage and URL is loaded
+14:23:09.173 [TestNG-tests-3] INFO  resources.Base - test Is paased for Navigation Bar.. Navgaion Bar is in protal
+14:23:09.177 [TestNG-tests-3] INFO  resources.Base - Closing Driver Instance, its for NavBar
+14:23:11.075 [TestNG-tests-1] INFO  resources.Base - Closing Driver Instance, its for ValidateTitle
+14:23:11.740 [TestNG-tests-2] INFO  resources.Base - I am at Login page and Providing Details
+14:23:12.756 [TestNG-tests-2] INFO  resources.Base - Provided Details forpavan@gmail.comClicked on Submit
+14:23:14.302 [TestNG-tests-2] INFO  resources.Base - i am on Forgot password Page
+14:23:17.156 [TestNG-tests-2] INFO  resources.Base - Driver Initilized for HomePage and URL is loaded
