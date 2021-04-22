@@ -1,0 +1,11 @@
+15:57:01.528 [TestNG-tests-2] INFO  resources.Base - Driver Initilized for HomePage and URL is loaded
+15:57:03.886 [TestNG-tests-2] INFO  resources.Base - I am at Login page and Providing Details
+15:57:04.984 [TestNG-tests-2] INFO  resources.Base - Provided Details forpawar@gmail.comClicked on Submit
+15:57:05.946 [TestNG-tests-2] INFO  resources.Base - i am on Forgot password Page
+15:57:05.949 [TestNG-tests-2] INFO  resources.Base - Closing Driver instane, its for homePage
+15:52:34.016 [main] INFO  resources.Base - Closing Driver Instance, its for ValidateTitle
+15:53:37.954 [main] INFO  resources.Base - Closing Driver Instance, its for ValidateTitle
+15:54:55.643 [TestNG-tests-4] INFO  resources.Base - This is My Newly Added Test for GIT COMMMANDS
+15:54:56.124 [TestNG-tests-1] INFO  resources.Base - Closing Driver Instance, its for ValidateTitle
+15:54:56.579 [TestNG-tests-3] INFO  resources.Base - test Is paased for Navigation Bar.. Navgaion Bar is in protal
+15:54:56.581 [TestNG-tests-3] INFO  resources.Base - Closing Driver Instance, its for NavBar

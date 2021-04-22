@@ -1,5 +1,10 @@
-15:57:01.528 [TestNG-tests-2] INFO  resources.Base - Driver Initilized for HomePage and URL is loaded
-15:57:03.886 [TestNG-tests-2] INFO  resources.Base - I am at Login page and Providing Details
-15:57:04.984 [TestNG-tests-2] INFO  resources.Base - Provided Details forpawar@gmail.comClicked on Submit
-15:57:05.946 [TestNG-tests-2] INFO  resources.Base - i am on Forgot password Page
-15:57:05.949 [TestNG-tests-2] INFO  resources.Base - Closing Driver instane, its for homePage
+15:54:56.649 [TestNG-tests-2] INFO  resources.Base - Driver Initilized for HomePage and URL is loaded
+15:54:58.511 [TestNG-tests-2] INFO  resources.Base - I am at Login page and Providing Details
+15:54:59.401 [TestNG-tests-2] INFO  resources.Base - Provided Details forpavan@gmail.comClicked on Submit
+15:55:00.689 [TestNG-tests-4] INFO  resources.Base - I will wait for 5 sec and Close
+15:55:00.903 [TestNG-tests-2] INFO  resources.Base - i am on Forgot password Page
+15:55:05.160 [TestNG-tests-2] INFO  resources.Base - Driver Initilized for HomePage and URL is loaded
+15:55:05.969 [TestNG-tests-2] INFO  resources.Base - I am at Login page and Providing Details
+15:55:06.528 [TestNG-tests-2] INFO  resources.Base - Provided Details forpawar@gmail.comClicked on Submit
+15:55:07.187 [TestNG-tests-2] INFO  resources.Base - i am on Forgot password Page
+15:55:07.188 [TestNG-tests-2] INFO  resources.Base - Closing Driver instane, its for homePage
