@@ -28,7 +28,7 @@ public class ValidateTitle extends Base {
 		driver.get(prop.getProperty("url"));
 		LandingPage land = new LandingPage(driver);
 		
-		Assert.assertEquals("FEAURED COURSES",land.getTitle().getText());
+		Assert.assertEquals("FEATURED COURSES",land.getTitle().getText());
 		
 	}
 	@AfterTest

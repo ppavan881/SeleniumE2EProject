@@ -21,13 +21,13 @@ public class Newtest extends Base {
 	
 
 	@BeforeTest
-	public void NewTestMethod() throws IOException
+	public void NewTestMethodinitilizeDriver() throws IOException
 	{
 		driver=initilizeDriver();
 	}
 	
 	@Test
-	public void validateVavigationBar() throws IOException
+	public void NewTestMethod() throws IOException
 	{
 		
 		
