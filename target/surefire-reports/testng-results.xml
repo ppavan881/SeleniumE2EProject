@@ -2,12 +2,28 @@
 <testng-results skipped="0" failed="1" ignored="0" total="4" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="30488" started-at="2021-04-15T19:22:49Z" finished-at="2021-04-15T19:23:20Z">
+  <suite name="Suite" duration-ms="43442" started-at="2021-04-19T20:56:22Z" finished-at="2021-04-19T20:57:06Z">
     <groups>
     </groups>
-    <test name="Validating Title" duration-ms="22616" started-at="2021-04-15T19:22:49Z" finished-at="2021-04-15T19:23:12Z">
+    <test name="Validating_Vavigation_Bar" duration-ms="35196" started-at="2021-04-19T20:56:22Z" finished-at="2021-04-19T20:56:58Z">
+      <class name="Work_folder.validateNavBar">
+        <test-method status="PASS" signature="initilizeDriverInValidateNavBar()[pri:0, instance:Work_folder.validateNavBar@b62d79]" name="initilizeDriverInValidateNavBar" is-config="true" duration-ms="8568" started-at="2021-04-19T20:56:22Z" finished-at="2021-04-19T20:56:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initilizeDriverInValidateNavBar -->
+        <test-method status="PASS" signature="validateVavigationBar()[pri:0, instance:Work_folder.validateNavBar@b62d79]" name="validateVavigationBar" duration-ms="20778" started-at="2021-04-19T20:56:31Z" finished-at="2021-04-19T20:56:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateVavigationBar -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Work_folder.validateNavBar@b62d79]" name="close" is-config="true" duration-ms="5847" started-at="2021-04-19T20:56:52Z" finished-at="2021-04-19T20:56:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Work_folder.validateNavBar -->
+    </test> <!-- Validating_Vavigation_Bar -->
+    <test name="Validating Title" duration-ms="42761" started-at="2021-04-19T20:56:22Z" finished-at="2021-04-19T20:57:05Z">
       <class name="Work_folder.ValidateTitle">
-        <test-method status="FAIL" signature="validatetitle()[pri:0, instance:Work_folder.ValidateTitle@10959ece]" name="validatetitle" duration-ms="19391" started-at="2021-04-15T19:22:49Z" finished-at="2021-04-15T19:23:09Z">
+        <test-method status="FAIL" signature="validatetitle()[pri:0, instance:Work_folder.ValidateTitle@10959ece]" name="validatetitle" duration-ms="27220" started-at="2021-04-19T20:56:22Z" finished-at="2021-04-19T20:56:50Z">
           <exception class="junit.framework.ComparisonFailure">
             <message>
               <![CDATA[expected:<......> but was:<...T...>]]>
@@ -43,35 +59,19 @@ at java.lang.Thread.run(Thread.java:748)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validatetitle -->
-        <test-method status="PASS" signature="close()[pri:0, instance:Work_folder.ValidateTitle@10959ece]" name="close" is-config="true" duration-ms="1268" started-at="2021-04-15T19:23:11Z" finished-at="2021-04-15T19:23:12Z">
+        <test-method status="PASS" signature="close()[pri:0, instance:Work_folder.ValidateTitle@10959ece]" name="close" is-config="true" duration-ms="12639" started-at="2021-04-19T20:56:53Z" finished-at="2021-04-19T20:57:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
       </class> <!-- Work_folder.ValidateTitle -->
     </test> <!-- Validating Title -->
-    <test name="Validating_Vavigation_Bar" duration-ms="24368" started-at="2021-04-15T19:22:49Z" finished-at="2021-04-15T19:23:14Z">
-      <class name="Work_folder.validateNavBar">
-        <test-method status="PASS" signature="initilizeDriverInValidateNavBar()[pri:0, instance:Work_folder.validateNavBar@b62d79]" name="initilizeDriverInValidateNavBar" is-config="true" duration-ms="6075" started-at="2021-04-15T19:22:49Z" finished-at="2021-04-15T19:22:55Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- initilizeDriverInValidateNavBar -->
-        <test-method status="PASS" signature="validateVavigationBar()[pri:0, instance:Work_folder.validateNavBar@b62d79]" name="validateVavigationBar" duration-ms="13369" started-at="2021-04-15T19:22:55Z" finished-at="2021-04-15T19:23:09Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- validateVavigationBar -->
-        <test-method status="PASS" signature="close()[pri:0, instance:Work_folder.validateNavBar@b62d79]" name="close" is-config="true" duration-ms="4919" started-at="2021-04-15T19:23:09Z" finished-at="2021-04-15T19:23:14Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- close -->
-      </class> <!-- Work_folder.validateNavBar -->
-    </test> <!-- Validating_Vavigation_Bar -->
-    <test name="Homepage_Username_Password_validating" duration-ms="30487" started-at="2021-04-15T19:22:49Z" finished-at="2021-04-15T19:23:20Z">
+    <test name="Homepage_Username_Password_validating" duration-ms="43442" started-at="2021-04-19T20:56:22Z" finished-at="2021-04-19T20:57:06Z">
       <class name="Work_folder.HomePage">
-        <test-method status="PASS" signature="Initilize()[pri:0, instance:Work_folder.HomePage@120f102b]" name="Initilize" is-config="true" duration-ms="4470" started-at="2021-04-15T19:22:49Z" finished-at="2021-04-15T19:22:54Z">
+        <test-method status="PASS" signature="Initilize()[pri:0, instance:Work_folder.HomePage@120f102b]" name="Initilize" is-config="true" duration-ms="8415" started-at="2021-04-19T20:56:22Z" finished-at="2021-04-19T20:56:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Initilize -->
-        <test-method status="PASS" signature="basePageNavigation(java.lang.String, java.lang.String)[pri:0, instance:Work_folder.HomePage@120f102b]" name="basePageNavigation" duration-ms="20094" started-at="2021-04-15T19:22:54Z" data-provider="getData" finished-at="2021-04-15T19:23:14Z">
+        <test-method status="PASS" signature="basePageNavigation(java.lang.String, java.lang.String)[pri:0, instance:Work_folder.HomePage@120f102b]" name="basePageNavigation" duration-ms="26541" started-at="2021-04-19T20:56:31Z" data-provider="getData" finished-at="2021-04-19T20:56:57Z">
           <params>
             <param index="0">
               <value>
@@ -87,7 +87,7 @@ at java.lang.Thread.run(Thread.java:748)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- basePageNavigation -->
-        <test-method status="PASS" signature="basePageNavigation(java.lang.String, java.lang.String)[pri:0, instance:Work_folder.HomePage@120f102b]" name="basePageNavigation" duration-ms="5669" started-at="2021-04-15T19:23:14Z" data-provider="getData" finished-at="2021-04-15T19:23:19Z">
+        <test-method status="PASS" signature="basePageNavigation(java.lang.String, java.lang.String)[pri:0, instance:Work_folder.HomePage@120f102b]" name="basePageNavigation" duration-ms="8092" started-at="2021-04-19T20:56:57Z" data-provider="getData" finished-at="2021-04-19T20:57:05Z">
           <params>
             <param index="0">
               <value>
@@ -103,7 +103,7 @@ at java.lang.Thread.run(Thread.java:748)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- basePageNavigation -->
-        <test-method status="PASS" signature="close()[pri:0, instance:Work_folder.HomePage@120f102b]" name="close" is-config="true" duration-ms="240" started-at="2021-04-15T19:23:19Z" finished-at="2021-04-15T19:23:20Z">
+        <test-method status="PASS" signature="close()[pri:0, instance:Work_folder.HomePage@120f102b]" name="close" is-config="true" duration-ms="381" started-at="2021-04-19T20:57:05Z" finished-at="2021-04-19T20:57:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->

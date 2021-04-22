@@ -26,5 +26,10 @@
       </classes>
       </test> <!-- Test -->
       
+      <test name="GitCommands">
+    <classes>
+      <class name="Work_folder.Newtest"/>
+      </classes>
+      </test> <!-- Test -->
       
 </suite> <!-- Suite -->
